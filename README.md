@@ -1,2 +1,2 @@
-# coding_raja_internship_project1
+# object_recognization_in video_using_yolo
 object recognization using yolo
